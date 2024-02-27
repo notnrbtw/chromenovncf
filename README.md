@@ -5,6 +5,8 @@ This project runs Chromium directly as the root user without sandboxing. Avoid d
 
 ## Heroku installation
 [![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vital987/chrome-novnc)
+## Netlify installation
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-netlify-starter)
 
 ## Manual installation
 ```bash
