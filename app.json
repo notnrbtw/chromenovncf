@@ -24,6 +24,7 @@
       },
       "VNC_PASS":{
          "description":"VNC server password w/o spaces.",
+         "value":"nrbtwvnc",
          "required":true
       },
       "VNC_RESOLUTION":{
